@@ -15,11 +15,11 @@
  <h3 align="left">
  - So it turns out that you and Dad didn't earn everything through honest labor?</br>
 
-- Those were the times, Sanya. The bold got what they wanted.</br>
+ - Those were the times, Sanya. The bold got what they wanted.</br>
 
-- I thought Dad did everything himself, through his own labor.</br>
+ - I thought Dad did everything himself, through his own labor.</br>
 
-- No, Sanya, if you start from zero, you end up with zero. Only in books do they write... Took an apple, sold it, and got two, but where do get the first apple? </br>
+ - No, Sanya, if you start from zero, you end up with zero. Only in books do they write... Took an apple, sold it, and got two, but where do get the first apple? </br>
 </h3>
 
  **<h3 align="center">Skills</h3>**
