@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-<code style="font-size: 32px">https://fbi.gov.ua/?API=F@ck_USA</code>
+<code style="font-size: 32px">https://fbi.gov.us/?API=F@ck_USA</code>
 </p>
 <br>
 <p>
