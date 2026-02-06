@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Instructor-Team8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
-<p align="center" style="font-size: 42px">💀 My history of evil 💀</p>
+<h1>💀 My history of evil 💀</h1>
 
 <p style="font-size: 16px">
 - So it turns out that you and Dad didn't earn everything through honest labor?<br>
