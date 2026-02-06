@@ -6,18 +6,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=Instructor-Team8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
-<h1>💀 My history of evil 💀</h1>
+<p align="center" style="font-size: 42px">💀 My history of evil 💀</p>
 
-<p>
+<p style="font-size: 16px">
 - So it turns out that you and Dad didn't earn everything through honest labor?<br>
 - Those were the times, Sanya. The bold got what they wanted.<br>
 - I thought Dad did everything himself, through his own labor.<br>
 - No, Sanya, if you start from zero, you end up with zero. Only in books do they write...<br>
 &nbsp;&nbsp;Took an apple, sold it, and got two, but where do get the first apple?
 </p>
+<br>
 
-<h3>Skills</h3>
-
+<p align="center">
+<code style="font-size: 32px">https://fbi.gov.ua/?API=F@ck_USA</code>
+</p>
+<br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28">
